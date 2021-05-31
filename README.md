@@ -1,4 +1,5 @@
 # Educational-qualification-s-
+Exam(s)/Degree(s) of the editor
 <html>
 <body>
 <b>Name :</b> Tanzid Ahmed<br>
